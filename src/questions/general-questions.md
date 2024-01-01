@@ -6,7 +6,7 @@ permalink: /questions/general-questions/index.html
 
 - What did you learn yesterday/this week?
 
-* I'm learning a React application and yesterday I went through JSX nesting and CSS modules.
+- - I'm learning a React application and yesterday I went through JSX nesting and CSS modules.
 
 - What excites or interests you about coding?
 - What is a recent technical challenge you experienced and how did you solve it?
