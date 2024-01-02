@@ -6,9 +6,20 @@ permalink: /questions/general-questions/index.html
 
 - What did you learn yesterday/this week?
 
-- - I'm learning a React application and yesterday I went through JSX nesting and CSS modules.
+- - This week, my focus has been on deepening my understanding of React, a popular JavaScript library for building user interfaces. Specifically, I've been learning about JSX, which is a syntax extension for JavaScript, commonly used with React. I've explored how JSX allows us to write HTML structures in the same file as JavaScript code, making the development process more efficient and intuitive.
+
+One of the key areas I delved into was JSX nesting. This concept is crucial as it enables the composition of complex UIs through the nesting of components. I learned how to effectively structure components within each other to build a cohesive and scalable application interface.
+
+In addition to JSX, I also dedicated time to understand and implement CSS modules in my React application. CSS modules are an approach to style your components locally, ensuring that styles do not have unintended consequences on other parts of the application. This method is particularly useful in large-scale projects, as it maintains styling consistency and prevents style conflicts.
+
+By integrating CSS modules, I have enhanced the modularity and maintainability of my application's styling, which aligns well with the component-based architecture of React.
+
+Overall, this week's learning has significantly contributed to my skills in building more structured, maintainable, and scalable front-end applications using React.
 
 - What excites or interests you about coding?
+
+- - What truly excites me about coding, particularly in the realm of front-end development, is the intricate process of crafting an application that is not only functional but also minimalistic and readable. This aspect of development fascinates me because it requires a harmonious blend of technical skill, creative problem-solving, and a deep understanding of efficient coding practices.
+
 - What is a recent technical challenge you experienced and how did you solve it?
 - When building a new web site or maintaining one, can you explain some techniques you have used to increase performance?
 - Can you describe some SEO best practices or techniques you have used lately?
